@@ -1,4 +1,0 @@
-premonitionNV
-=============
-
-The premonitionNV project.
